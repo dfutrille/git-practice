@@ -2,7 +2,7 @@ hola
 este
 es
 un
-archivo de texto
+archivo para probar conflicto
 con
 varias
 lineas
