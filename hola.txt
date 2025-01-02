@@ -2,7 +2,7 @@ hola
 este
 es
 un
-archivo
+archivo de texto
 con
 varias
 lineas
